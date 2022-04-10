@@ -1,0 +1,90 @@
+/* Index Page CSS */
+
+body {
+  background-color: #FF5959;
+}
+
+img {
+  border-style: solid;
+  border-color: #676FA3;
+  border-radius: 100%;
+  border-width: thick;
+  height: 240px;
+}
+
+
+h1 {
+  color: #676FA3;
+}
+
+p {
+  color: #CDDEFF;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 10px;
+  border-color: #CDDEFF;
+  height: 10px;
+  width: 16%;
+}
+
+h2 {
+  color: #FFD93D;
+}
+
+h3 {
+  color: #EEF2FF;
+}
+
+h4 {
+  color: #EEF2FF;
+}
+
+
+h2 a {
+  color: #3A3845;
+}
+
+h3 a {
+  color: #3A3845;
+}
+
+h4 a {
+  color: inherit;
+}
+
+/* Contact Page CSS */
+
+label {
+  color: #3A3845;
+}
+
+p a {
+  color: inherit;
+}
+
+span input, textarea {
+  width: 180%;
+}
+
+i input {
+  background-color: #CDDEFF;
+  height: 40px;
+  width: 60px;
+  border-style: none;
+  border-radius: 10%;
+}
+
+button {
+  background-color: #CDDEFF;
+  height: 40px;
+  width: 80px;
+  border-style: none;
+  border-radius: 10%;
+}
+
+button a {
+  text-decoration: none;
+}
